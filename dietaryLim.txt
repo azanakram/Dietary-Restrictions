@@ -1,0 +1,5 @@
+Halal
+Vegatarian
+Seafood
+Vegan
+Kosher
